@@ -1,0 +1,94 @@
+*{
+	margin:0;
+	padding:0;
+}   
+body{
+    background:url(Bg.png)fixed;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.clsFirstImg{
+	position:absolute;
+	left:560px;
+}
+.clsSecImg{
+	position:absolute;
+	top:90px;
+	left:680px;
+}
+.heading{
+	position:absolute;
+	top:400px;
+	left:600px;
+	font-size:28px;
+	text-transform: uppercase;
+}
+.box1{
+	position:absolute;
+	top:450px;
+	left:600px;
+}
+.i1{
+	width:25px;
+	position:absolute;
+	top:455px;
+	left:610px;
+}
+.p1{
+	position:absolute;
+	top:460px;
+	left:650px;
+}
+.box2{
+	position:absolute;
+	top:500px;
+	left:600px;
+}
+.i2{
+	width:25px;
+	position:absolute;
+	top:505px;
+	left:610px;	
+}
+.p2{
+	position:absolute;
+	top:510px;
+	left:650px;
+}
+.box3{
+	position:absolute;
+	top:550px;
+	left:600px;
+}
+.i3{
+	width:25px;
+    position:absolute;
+	top:555px;
+	left:610px;
+}
+.p3{
+	position:absolute;
+	top:560px;
+	left:650px;
+}
+.box4{
+	position:absolute;
+	top:600px;
+	left:600px;
+}
+.i4{
+	width:25px;
+    position:absolute;
+	top:605px;
+	left:610px;
+}
+.p4{
+	position:absolute;
+	top:610px;
+	left:650px;
+}
+.p5{
+	position:absolute;
+	top:680px;
+	left:650px;
+}
